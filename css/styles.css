@@ -1,0 +1,29 @@
+body {
+  background-color: azure;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 6%;
+  color: gray;
+  border-width: 10px;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.image:hover {
+  border-radius: 0px;
+}
+
+h1 {
+  color: rgb(123, 167, 152);
+}
+
+h3 {
+  color: rgb(123, 122, 185);
+}
